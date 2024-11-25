@@ -2,10 +2,9 @@
 #include <stdlib.h>
 #include <string.h>
 #include <ctype.h>
-#include <malloc.h>
 #include <stdarg.h>
 
-#include <libxls/xls.h>
+#include "/opt/homebrew/Cellar/libxls/1.6.2/include/xls.h"
 #include "appendstr.h"
 
 // xls2csv reads XLS files and convert XLS data to CSV string.

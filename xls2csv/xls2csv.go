@@ -3,7 +3,7 @@ package xls2csv
 /*
 #include <stdio.h>
 #include <stdlib.h>
-#include <libxls/xls.h>
+#include "/opt/homebrew/Cellar/libxls/1.6.2/include/xls.h"
 #include "xls2csv.h"
 */
 import "C"
